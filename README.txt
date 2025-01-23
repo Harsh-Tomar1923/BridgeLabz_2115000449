@@ -10,3 +10,8 @@ Assignment_java_Control_Flow(23/01/25)
 Level 1
 Level 2
 Level 3
+
+(24/01/25)
+Assignment Java Arrays Lab Practice:
+Level 1
+Level 2
