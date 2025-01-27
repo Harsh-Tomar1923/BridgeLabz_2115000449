@@ -15,3 +15,9 @@ Level 3
 Assignment Java Arrays Lab Practice:
 Level 1
 Level 2
+
+(28/01/25)
+Submissions on Java Methods Practices
+Level 1
+Level 2 
+Level 3
