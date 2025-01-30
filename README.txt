@@ -21,3 +21,11 @@ Submissions on Java Methods Practices
 Level 1
 Level 2 
 Level 3
+
+(29/01/25)
+submitted the String assignment 
+submitted extras built-in functions assignment
+
+
+(30/01/25)
+submitted java class assignment
