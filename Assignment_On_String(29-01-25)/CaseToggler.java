@@ -4,17 +4,17 @@ import java.util.Scanner;
 
 class CaseToggler {
     public static String toggleCase(String str) {
-        StringBuilder toggled = new StringBuilder();
+        String result = "";
         for (char c : str.toCharArray()) {
             if (Character.isUpperCase(c)) {
-                toggled.append(Character.toLowerCase(c));
+                result += Character.toLowerCase(c);
             } else if (Character.isLowerCase(c)) {
-                toggled.append(Character.toUpperCase(c));
+                result += Character.toUpperCase(c);
             } else {
-                toggled.append(c);
+                result += c;
             }
         }
-        return toggled.toString();
+        return result;
     }
 
     public static void main(String[] args) {
@@ -22,5 +22,6 @@ class CaseToggler {
         System.out.print("Enter a string: ");
         String input = sc.nextLine();
         System.out.println("Toggled String: " + toggleCase(input));
+        sc.close();
     }
 }
